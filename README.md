@@ -6,10 +6,13 @@
 
 Allows the user to have certain hardware devices to be automatically disabled/enabled based on a program executed.
 
-It's original intended purpose was because certain Unity3D programs by default accept input from ALL controllers when assigning an axis. 
-This causes issues if you have a joystick or other controller that has non-standard layout.
+It's original intended purpose was because certain Unity3D programs by default accept input <a href="http://docs.unity3d.com/uploads/Main/InputAxis.png">from ALL controllers</a> when assigning an axis. 
+
+This <a href="http://answers.unity3d.com/questions/54366/stuck-movement-in-all-unity-games.html"causes issues</a> if you have a joystick or other controller that has non-standard layout.
 
 For me, this was a Logitech Extreme 3D Joystick, and a Razor Orbweaver.
+
+This should rightly be considered a bug in the program/game using Unity3D, although I also suggest Unity3D should not accept intput from ALL devices by default if more than one device is connected, and instead should force the implementing program to allow the user to choose.
 
 <h1>Use</h1>
 
