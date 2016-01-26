@@ -8,7 +8,7 @@ Allows the user to have certain hardware devices to be automatically disabled/en
 
 It's original intended purpose was because certain Unity3D programs by default accept input <a href="http://docs.unity3d.com/uploads/Main/InputAxis.png">from ALL controllers</a> when assigning an axis. 
 
-This <a href="http://answers.unity3d.com/questions/54366/stuck-movement-in-all-unity-games.html">causes issues</a> if you have a joystick or other controller that has non-standard layout.
+This <a href="http://answers.unity3d.com/questions/54366/stuck-movement-in-all-unity-games.html">causes issues</a> if you have a joystick or other controller that has non-standard layout. Such issues appear as "always turning left" or "always turning right".
 
 For me, this was a Logitech Extreme 3D Joystick, and a Razor Orbweaver.
 
